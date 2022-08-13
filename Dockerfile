@@ -1,1 +1,2 @@
-docker pull training/webapp
+FROM ubuntu
+RUN apt-get update
